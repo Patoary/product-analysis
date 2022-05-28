@@ -1,0 +1,56 @@
+[
+    {
+      "id": "6290d17d6a54385617da0f96",
+      "index": 0,
+      "isActive": true,
+      "price": 999,
+      "picture": "http://placehold.it/32x32",
+      "age": 21,
+      "name": "M1 MacBook Air 13 Inch"
+    },
+    {
+      "id": "6290d17d9907b071aabedd87",
+      "index": 1,
+      "isActive": true,
+      "price": 1200,
+      "picture": "http://placehold.it/32x32",
+      "age": 38,
+      "name": "M1 MacBook Pro 13 Inch"
+    },
+    {
+      "id": "6290d17da3ca036a2d531282",
+      "index": 2,
+      "isActive": false,
+      "price": 1999,
+      "picture": "http://placehold.it/32x32",
+      "age": 26,
+      "name": "MacBook Pro 14 Inch"
+    },
+    {
+      "id": "6290d17d37603829668d43ca",
+      "index": 3,
+      "isActive": false,
+      "price": 2599,
+      "picture": "http://placehold.it/32x32",
+      "age": 23,
+      "name": "MacBook Pro 16 Inch"
+    },
+    {
+      "id": "6290d17deaf289decef6d191",
+      "index": 4,
+      "isActive": true,
+      "price": 799,
+      "picture": "http://placehold.it/32x32",
+      "age": 28,
+      "name": "Mac mini"
+    },
+    {
+      "id": "6290d17d5b8a636790453c3f",
+      "index": 5,
+      "isActive": false,
+      "price": 2499,
+      "picture": "http://placehold.it/32x32",
+      "age": 21,
+      "name": "Mac Studio"
+    }
+  ]
