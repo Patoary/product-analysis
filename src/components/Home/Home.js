@@ -2,10 +2,12 @@ import Image from '../../Assets/Image/mac2.jpg';
 import './Home.css';
 import CustomerInfo from '../CustomerInfo/CustomerInfo';
 import useMac from '../hooks/useMac';
+import { useNavigate } from 'react-router-dom';
 
 
 const Home = () => {
     const [products,setProducts] =useMac();
+    const navigate = useNavigate();
     return (
         <>
             <div className='main-container mb-32'>
@@ -34,7 +36,7 @@ const Home = () => {
             }
                
             </div>
-            <button className='btn flex m-auto'>See All Reviews</button>
+            <button onClick={() => navigate('/reviews')} className='btn flex m-auto'>See All Reviews</button>
         </>
 
     );
