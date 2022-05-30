@@ -1,0 +1,39 @@
+.main-container{
+    display: grid;
+    grid-template-columns:repeat(2,1fr);
+    padding: 30px;
+    height: 100vh;
+}
+.image img{
+    width: 500px;
+    height: 500px;
+
+
+
+}
+.text{
+    margin-top: 28px;
+}
+.text h4{
+    /* display: flex;
+    justify-items: center;
+    justify-content: center; */
+    font-size: 38px;
+    text-align: center;
+    align-items: center;
+    margin-right: 12px;
+   
+}
+.text p{
+    padding: 20px;
+    margin-right: 12px;
+    margin-top: 18px;
+    color: gray;
+}
+.btn{
+background-color: rgba(0, 102, 204, 0.909);
+color: rgba(255, 255, 255, 0.939);
+padding: 10px;
+font-size: 14px;
+border-radius:20px;
+}

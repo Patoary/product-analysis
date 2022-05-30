@@ -7,12 +7,10 @@ import Dashboard from './components/Dashboard/Dashboard';
 import Blogs from './components/Blog/Blog';
 import About from './components/About/About';
 import NotFound from './components/NotFound/notFound';
-
-
-
 function App() {
+
   return (
-    <div className='app'>
+    <>
       <Navbar></Navbar>
       <Routes>
         <Route path='/' element={<Home></Home>}></Route>
@@ -23,7 +21,7 @@ function App() {
         <Route path='/about' element={<About></About>}></Route>
         <Route path='*' element={<NotFound></NotFound>}></Route>
       </Routes>
-    </div>
+      </>
   );
 }
 

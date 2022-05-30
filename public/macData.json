@@ -4,53 +4,59 @@
       "index": 0,
       "isActive": true,
       "price": 999,
-      "picture": "http://placehold.it/32x32",
+      "picture": "https://i.ibb.co/0FDBPVY/7.jpg",
       "age": 21,
-      "name": "M1 MacBook Air 13 Inch"
+      "name": "Tanami",
+      "detail": "After using the MacBook for 2 hours... 93% of battery charge remained."
     },
     {
       "id": "6290d17d9907b071aabedd87",
       "index": 1,
       "isActive": true,
       "price": 1200,
-      "picture": "http://placehold.it/32x32",
+      "picture": "https://i.ibb.co/9ynKgT9/5.jpg",
       "age": 38,
-      "name": "M1 MacBook Pro 13 Inch"
+      "name": "Mith",
+      "detail":"I'll say this for the machine: It's FAST!!!! No problem"
     },
     {
       "id": "6290d17da3ca036a2d531282",
       "index": 2,
       "isActive": false,
       "price": 1999,
-      "picture": "http://placehold.it/32x32",
+      "picture": "https://i.ibb.co/tJCxXKw/4.jpg",
       "age": 26,
-      "name": "MacBook Pro 14 Inch"
+      "name": "Bolod",
+      "detail":"Speechless - Great upgrade, super fast - The M1 Processor is amazing."
     },
     {
       "id": "6290d17d37603829668d43ca",
       "index": 3,
       "isActive": false,
       "price": 2599,
-      "picture": "http://placehold.it/32x32",
+      "picture": "https://i.ibb.co/SBT3hc1/3.jpg",
       "age": 23,
-      "name": "MacBook Pro 16 Inch"
+      "name": "Tanaka",
+      "detail":"This macbook is much faster than my previous generation macbook pro. I love it!"
     },
     {
       "id": "6290d17deaf289decef6d191",
       "index": 4,
       "isActive": true,
       "price": 799,
-      "picture": "http://placehold.it/32x32",
+      "picture": "https://i.ibb.co/h8y4P7c/2.jpg",
       "age": 28,
-      "name": "Mac mini"
+      "name": "Hanako",
+      "detail":"Still the best laptop you can buy, especially for an upcoming college student."
     },
     {
       "id": "6290d17d5b8a636790453c3f",
       "index": 5,
       "isActive": false,
       "price": 2499,
-      "picture": "http://placehold.it/32x32",
+      "picture": "https://i.ibb.co/nrymWJ2/1.jpg",
       "age": 21,
-      "name": "Mac Studio"
+      "name": "Mr.Mac",
+      "detail":"Apple surprisingly has stepped up their game in regards to this M1 chip."
     }
   ]
