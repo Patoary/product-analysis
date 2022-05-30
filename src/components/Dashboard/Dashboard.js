@@ -45,7 +45,7 @@ const Dashboard = () => {
     return (
         <div className='p-32'>
             <div className='mb-20'>
-                <LineChart width={800} height={500} data={data}>
+                <LineChart width={550} height={200} data={data}>
                     <Line dataKey={'Revenue'}></Line>
                     <Line dataKey={'Investment'}></Line>
                     <XAxis dataKey={'Month'}></XAxis>
@@ -54,7 +54,7 @@ const Dashboard = () => {
                 </LineChart>
             </div>
             <div>
-                <BarChart width={730} height={250} data={data}>
+                <BarChart width={550} height={200} data={data}>
                     <CartesianGrid strokeDasharray="3 3" />
                     <XAxis dataKey={'sell'} />
                     <YAxis/>
